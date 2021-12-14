@@ -1,4 +1,4 @@
-# Add Snow for Christmas
+# Add Snow for Christmas in your website
 
-## simply add <script src="https://georginedkov.github.io/Snow/snow.js"></script> to your website to get christams theme
-## Too see the effect https://georginedkov.github.io/Snow/index.html
+## To see the effect https://georginedkov.github.io/Snow/index.html
+## To add the christmas theme in your website <script src="https://georginedkov.github.io/Snow/snow.js"></script>
